@@ -13,6 +13,5 @@
 
 <p align="center">
   <img src="assets/36409.gif" width="200"/>
-  <img src="assets/sadgif.gif" width="200"/>
 </p>
 
