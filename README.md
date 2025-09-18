@@ -15,8 +15,3 @@
   <img src="assets/36409.gif" width="200"/>
 </p>
 
-<p align="center">
-  <img src="assets/space.png" width="200"/>
-  <img src="assets/matrix.gif" width="200"/>
-</p>
-
