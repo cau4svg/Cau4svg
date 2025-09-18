@@ -1,9 +1,3 @@
-## Unreal
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cau4svg/cau4svg/main/assets/36409.gif" width="400"/>
-</p>
-
-
 ## Contribution Summary
 
 <p align="center">
