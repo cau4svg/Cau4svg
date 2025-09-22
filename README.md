@@ -8,7 +8,7 @@
 
 ---
 
-### 🏢 In API-Brasil
+###  In API-Brasil
 <p align="center">
   <!-- Stats da organização -->
   <img src="https://github-readme-stats.vercel.app/api?username=cau4svg&include_orgs=true&show_icons=true&custom_title=API%20Brasil%20Stats&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" width="48%"/>
